@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "C:/Users/crist/Desktop/Cristian-UCN/Semestre 4/Estructura de datos/Lab1",
+    "files.associations": {
+        "list": "cpp",
+        "string": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "new": "cpp"
+    }
+}
